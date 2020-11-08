@@ -1,2 +1,2 @@
-# Tensorflow2-Object-Detection-API
+# Tensorflow2-Object-Detection
 TF2 OD API
